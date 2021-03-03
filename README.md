@@ -1,0 +1,1 @@
+# xinitrc-fo-dwm
